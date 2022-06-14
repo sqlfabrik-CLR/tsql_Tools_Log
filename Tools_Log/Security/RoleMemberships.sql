@@ -1,0 +1,6 @@
+﻿ALTER ROLE [db_owner] ADD MEMBER [BWTDE\BWTDESQL01$];
+
+
+GO
+ALTER ROLE [db_owner] ADD MEMBER [BWTDE\PwrBI-Service];
+
